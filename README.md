@@ -1,8 +1,5 @@
 
-# ReviveFoundation.org v1003
-Static-export Next.js site with full Revive content pages and Netlify Forms.
+# ReviveFoundation.org v2001
+Next.js 14 static export with dark theme toggle + Press/Media page.
 
-## Deploy
-npm install
-npm run build && npm run export
-Deploy the `out` folder to Netlify.
+Deploy: npm install && npm run build → publish `out/` to Netlify (no Next plugin).
